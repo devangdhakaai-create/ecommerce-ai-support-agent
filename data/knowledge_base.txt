@@ -1,0 +1,38 @@
+PRODUCT: TechPro X1 Laptop
+Price: $999
+Specs: Intel i7, 16GB RAM, 512GB SSD, 15.6" display
+Use case: Best for developers and students
+Warranty: 2 years
+
+PRODUCT: ProBuds Wireless Earbuds
+Price: $149
+Specs: 30hr battery, ANC, IPX5 waterproof
+Use case: Gym, travel, daily commute
+Warranty: 1 year
+
+PRODUCT: SmartDesk Pro
+Price: $449
+Specs: Electric height-adjustable, 150kg capacity
+Use case: Home office, ergonomic work setup
+Warranty: 3 years
+
+SHIPPING POLICY:
+Standard shipping: 5-7 business days, FREE on orders over $50
+Express shipping: 2-3 days, $15 flat fee
+International: 10-15 days, calculated at checkout
+
+RETURN POLICY:
+30-day return window
+Item must be unused and in original packaging
+Refunds processed in 5-7 business days
+Electronics: 15-day return window only
+
+ORDER HELP:
+Track orders at: mystore.com/track
+Cancel orders within 24 hours of placing
+Contact support: support@mystore.com or 1-800-MYSTORE
+
+PROMOTIONS:
+Current deal: Buy any laptop, get 20% off earbuds
+Bundle: Laptop + Desk = $200 off
+Student discount: 10% with valid .edu email
